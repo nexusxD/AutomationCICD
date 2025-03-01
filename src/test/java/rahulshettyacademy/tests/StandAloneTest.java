@@ -24,6 +24,7 @@ public class StandAloneTest {
 		// https://rahulshettyacademy.com/client
 		// poggers@gmail.com
 		// Poggers1
+		//New comments are added
 		WebDriverManager.chromedriver().setup();
 		ChromeOptions options = new ChromeOptions();
 		options.addExtensions(new File("C:\\Users\\NexusXD\\Downloads\\NDGIMIBANHLABGDGJCPBBNDIEHLJCPFH_5_3_0_0.crx"));
